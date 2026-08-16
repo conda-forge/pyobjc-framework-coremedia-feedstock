@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "12.0"
+  version: "12.2.2"
 
 package:
   name: pyobjc-framework-coremedia
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pyobjc-framework-CoreMedia/pyobjc_framework_coremedia-${{ version }}.tar.gz
-  sha256: d7f76d2eb2890be9f8836b95682e83fa7f158c92043958daa71845fbc4a01ba9
+  sha256: fe9f972438674893e941e9db5b62f8ba99a33f94a7f1c2ce49b14416f154cd10
 
 build:
   number: 0
